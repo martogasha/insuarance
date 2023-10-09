@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Home Six || Insur || Insur HTML 5 Template </title>
+    <title> Home || Dragonstone || Insurance </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
@@ -101,7 +101,7 @@
                                 <span class="icon-pin"></span>
                             </i>
                             <div class="text">
-                                <p>238, Arimantab, Moska - USA.</p>
+                                <p>Nairobi - Kenya.</p>
                             </div>
                         </li>
                     </ul>
@@ -138,8 +138,8 @@
                 <div class="main-menu-six__wrapper-inner">
                     <div class="main-menu-six__logo-box">
                         <div class="main-menu-six__logo">
-                            <a href="index.html"><img
-                                    src="assets/images/update-17-06-2023/resources/main-menu-six-logo.png"
+                            <a href="{{url('/')}}"><img
+                                    src="assets/images/resources/ini.jpg"
                                     alt=""></a>
                         </div>
                     </div>
@@ -1457,8 +1457,8 @@
                         <div class="footer-widget-four__column footer-widget-four__about">
                             <div class="footer-widget-four__logo">
                                 <a href="index.html"><img
-                                        src="assets/images/update-17-06-2023/resources/footer-logo-two.png"
-                                        alt=""></a>
+                                        src="assets/images/resources/ini.jpg"
+                                            alt=""></a>
                             </div>
                             <div class="footer-widget-four__about-text-box">
                                 <p class="footer-widget__about-text">Lorem ipsum dolor sit amet, consectetur
@@ -1576,7 +1576,7 @@
         <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
         <div class="logo-box">
-            <a href="index.html" aria-label="logo image"><img src="assets/images/resources/logo-2.png" width="143"
+            <a href="{{url('/')}}" aria-label="logo image"><img src="assets/images/resources/ini.jpg" width="143"
                                                               alt=""></a>
         </div>
         <!-- /.logo-box -->
